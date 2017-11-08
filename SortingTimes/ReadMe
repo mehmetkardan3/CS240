@@ -1,0 +1,3 @@
+This cpp code allow user to check out which algorithm is better then the others for sorting.
+User can easily change the size.
+Selection Sort, Insertion Sort and Quick Sort implemented in this cpp code.
